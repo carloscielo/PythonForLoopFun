@@ -17,3 +17,4 @@ print()
 #the nested for loop can be converted into a list comprehension:
 x = [f'{fruit}-{number}' for fruit in fruits for number in numbers]
 print(x)
+
