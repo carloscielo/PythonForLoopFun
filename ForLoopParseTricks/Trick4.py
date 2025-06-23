@@ -13,3 +13,6 @@ print()
 
 for a,b in mylist:
     print(a,b)
+
+#remember all tuples must be the same shape for you to do this
+#remember how you unpack your tuples depends on their structure in the list
